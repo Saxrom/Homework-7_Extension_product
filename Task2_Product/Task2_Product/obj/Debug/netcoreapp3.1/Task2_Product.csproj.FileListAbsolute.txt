@@ -1,0 +1,13 @@
+/Users/shahrom/Projects/Task2_Product/Task2_Product/bin/Debug/netcoreapp3.1/Task2_Product.deps.json
+/Users/shahrom/Projects/Task2_Product/Task2_Product/bin/Debug/netcoreapp3.1/Task2_Product.runtimeconfig.json
+/Users/shahrom/Projects/Task2_Product/Task2_Product/bin/Debug/netcoreapp3.1/Task2_Product.runtimeconfig.dev.json
+/Users/shahrom/Projects/Task2_Product/Task2_Product/bin/Debug/netcoreapp3.1/Task2_Product.dll
+/Users/shahrom/Projects/Task2_Product/Task2_Product/bin/Debug/netcoreapp3.1/Task2_Product.pdb
+/Users/shahrom/Projects/Task2_Product/Task2_Product/obj/Debug/netcoreapp3.1/Task2_Product.csproj.AssemblyReference.cache
+/Users/shahrom/Projects/Task2_Product/Task2_Product/obj/Debug/netcoreapp3.1/Task2_Product.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Projects/Task2_Product/Task2_Product/obj/Debug/netcoreapp3.1/Task2_Product.AssemblyInfoInputs.cache
+/Users/shahrom/Projects/Task2_Product/Task2_Product/obj/Debug/netcoreapp3.1/Task2_Product.AssemblyInfo.cs
+/Users/shahrom/Projects/Task2_Product/Task2_Product/obj/Debug/netcoreapp3.1/Task2_Product.csproj.CoreCompileInputs.cache
+/Users/shahrom/Projects/Task2_Product/Task2_Product/obj/Debug/netcoreapp3.1/Task2_Product.dll
+/Users/shahrom/Projects/Task2_Product/Task2_Product/obj/Debug/netcoreapp3.1/Task2_Product.pdb
+/Users/shahrom/Projects/Task2_Product/Task2_Product/obj/Debug/netcoreapp3.1/Task2_Product.genruntimeconfig.cache
